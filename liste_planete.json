@@ -5,7 +5,7 @@
         "description":"est la planète la plus proche du Soleil, ainsi que la plus petite (4 878
         km de diamètre) et la moins massive avec un peu plus du vingtième de la
         masse terrestre" ,
-        "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/juiter.png"
+        "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/mercure.png"
     },
     {
          "id":"2",
@@ -15,7 +15,7 @@
         planète sœur ». Comme elle, Vénus possède également un épais manteau
         de silicate entourant un noyau métallique, une atmosphère significative et une
         activité géologique interne.",
-        "image":"images/venus.png"
+        "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/venus.png"
     },
     {
          "id":"3",
@@ -24,7 +24,7 @@
         dense des planètes du Système solaire. Elle est notamment le seul objet
         céleste connu pour abriter la vie.
         ",
-        "image":"images/terre.png"
+        "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/terre.png"
     },
     {
         "id":"4",
@@ -32,7 +32,7 @@
        "description":"est deux fois plus petite que la Terre et Vénus, et fait seulement environ
        le dixième de la masse terrestre. Sa période de révolution autour du Soleil est
        de 687 jours terrestres et sa journée dure 24 heures et 39 minutes.",
-       "image":"images/mars.png"
+       "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/mars.png"
    },
    {
     "id":"5",
@@ -43,7 +43,7 @@
    d'un peu moins de 10 heures.
    
    ",
-   "image":"images/juiter.png"
+   "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/juiter.png"
 },
 {
     "id":"6",
@@ -55,7 +55,7 @@
    massive avec 95 masses terrestres.
    
    ",
-   "image":"images/saturne.png"
+   "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/terre.png"
 },
 {
     "id":"7",
@@ -65,7 +65,7 @@
    grande que sa presque jumelle Neptune en raison de la compression
    gravitationnelle de cette dernière.
    ",
-   "image":"images/uranus.png"
+   "image":"https://raw.githubusercontent.com/Ons-Git/data/main/images/uranus.png"
 }
 
 ]
