@@ -1,4 +1,4 @@
-{
+[
     {
         "id":"1",
         "name":"Mercure",
@@ -66,26 +66,6 @@
    gravitationnelle de cette dernière.
    ",
    "image":"images/uranus.png"
-},
-{
-    "id":"8",
-   "name":"Neptune ",
-   "description":"est la planète la plus éloignée du Soleil connue au sein du Système
-   solaire. Légèrement plus massive qu'Uranus avec 17 masses terrestres, elle
-   est par conséquent plus dense avec un diamètre équatorial d'environ 49 500
-   kilomètres par compression gravitationnelle.
-   ",
-   "image":""
-},
-{
-    "id":"9",
-   "name":" Pluton ",
-   "description":"a perdu son statut de neuvième planète du Système solaire. A la
-   suite d’un vote de l’Union astronomique internationale, elle s’est vue
-   rétrogradée en planète naine. La raison principale de ce changement
-   d’appellation provient d’une redéfinition de ce qu’est une planète.
-   ",
-   "image":""
 }
 
-}
+]
